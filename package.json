@@ -1,7 +1,11 @@
 {
-    "name": "b++",
+    "name": "b-plus-plus",
     "author": "youth overturn",
     "version": "0.0.0",
+    "repository": {
+       "type": "git",
+       "url": "https://github.com/qcgm1978/b-plus-plus.git"
+     },
     "dependencies": {},
     "devDependencies": {
         "grunt": "~0.4.1",
