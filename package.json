@@ -38,7 +38,7 @@
     "matchdep": "~0.1.1",
     "grunt-google-cdn": "~0.1.1",
     "grunt-ngmin": "~0.0.2",
-    "grunt-readme": "~0.3.3",
+    "grunt-readme": "~0.4.2",
     "load-grunt-tasks": "~0.2.0"
   },
   "engines": {
