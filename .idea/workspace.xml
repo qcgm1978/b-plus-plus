@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e84a99ba-582e-4323-aab8-cd3d352a8db4" name="Default" comment="readme added">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/js-test-driver/test-create-class.coffee" afterPath="$PROJECT_DIR$/test/js-test-driver/test-create-class.coffee" />
+    <list default="true" id="e84a99ba-582e-4323-aab8-cd3d352a8db4" name="Default" comment="test added">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gruntfile.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/ui-3d/b++.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js-test-driver/test-create-class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js-test-driver/test-create-class.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js-test-driver/test-qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js-test-driver/test-qunit.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js-test-driver/test-testSelf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js-test-driver/test-testSelf.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="b++.iws" />
@@ -413,12 +421,16 @@
       <created>1386302605584</created>
       <updated>1386302605584</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="test added">
+      <created>1386313094496</created>
+      <updated>1386313094496</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1231" height="1040" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -426,7 +438,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27934876" sideWeight="0.67256635" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27934876" sideWeight="0.67256635" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39892474" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49779248" sideWeight="0.50042844" order="7" side_tool="true" content_ui="tabs" />
@@ -452,7 +464,8 @@
     <MESSAGE value="commit" />
     <MESSAGE value="qunit test added" />
     <MESSAGE value="readme added" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme added" />
+    <MESSAGE value="test added" />
+    <option name="LAST_COMMIT_MESSAGE" value="test added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
