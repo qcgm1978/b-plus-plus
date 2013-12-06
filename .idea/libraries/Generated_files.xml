@@ -3,10 +3,12 @@
     <properties>
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/test/js-test-driver/test-testSelf.js" />
-        <item url="file://$PROJECT_DIR$/test/js-test-driver/testCreateClass.js" />
-        <item url="file://$PROJECT_DIR$/test/js-test-driver/test-qunit.js" />
-        <item url="file://$PROJECT_DIR$/Gruntfile.js" />
         <item url="file://$PROJECT_DIR$/test/js-test-driver/test-create-class.js" />
+        <item url="file://$PROJECT_DIR$/test/js-test-driver/test-qunit.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/grunt-readme-generator/tasks/readme_generator.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/grunt-readme-generator/Gruntfile.js" />
+        <item url="file://$PROJECT_DIR$/Gruntfile.js" />
+        <item url="file://$PROJECT_DIR$/temp.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
@@ -14,9 +16,11 @@
       <root url="file://$PROJECT_DIR$/test/js-test-driver/test-qunit1.js" />
       <root url="file://$PROJECT_DIR$/test/js-test-driver/test-testSelf.js" />
       <root url="file://$PROJECT_DIR$/test/js-test-driver/test-create-class.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/grunt-readme-generator/Gruntfile.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/grunt-readme-generator/tasks/readme_generator.js" />
       <root url="file://$PROJECT_DIR$/test/js-test-driver/test-qunit.js" />
       <root url="file://$PROJECT_DIR$/Gruntfile.js" />
-      <root url="file://$PROJECT_DIR$/test/js-test-driver/test-create-class.js" />
+      <root url="file://$PROJECT_DIR$/temp.js" />
     </CLASSES>
     <SOURCES />
   </library>
