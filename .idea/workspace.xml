@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e84a99ba-582e-4323-aab8-cd3d352a8db4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js-test-driver/js-test-driver.jstd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js-test-driver/qunit.jstd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/temp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js-test-driver/test-qunit.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js-test-driver/test-testSelf.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Node_js_Dependencies_for_b__.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js-test-driver/test-create-class.coffee" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/b++.iml" afterPath="$PROJECT_DIR$/.idea/b++.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/js-test-driver/qunit.jstd" afterPath="$PROJECT_DIR$/test/js-test-driver/qunit.jstd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/js-test-driver/test-qunit.coffee" afterPath="$PROJECT_DIR$/test/js-test-driver/test-qunit.coffee" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="b++.iws" />
@@ -32,10 +32,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test-qunit.coffee" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="test-create-class.coffee" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/js-test-driver/test-create-class.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="0" selection-start="142" selection-end="142" vertical-scroll-proportion="0.33213645" vertical-offset="5" max-vertical-offset="589">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="qunit.jstd" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/js-test-driver/qunit.jstd">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="13" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="266">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test-qunit.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/js-test-driver/test-qunit.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="0" selection-start="1372" selection-end="1372" vertical-scroll-proportion="0.99187934" vertical-offset="0" max-vertical-offset="1045">
+            <state line="32" column="12" selection-start="929" selection-end="934" vertical-scroll-proportion="-7.2" vertical-offset="428" max-vertical-offset="969">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test-create-class.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/js-test-driver/test-create-class.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="0" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0" vertical-offset="309" max-vertical-offset="1121">
               <folding />
             </state>
           </provider>
@@ -44,7 +71,7 @@
       <file leaf-file-name="test-qunit.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/js-test-driver/test-qunit.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="0" selection-start="1130" selection-end="1130" vertical-scroll-proportion="0.0" vertical-offset="581" max-vertical-offset="1007">
+            <state line="25" column="8" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0" vertical-offset="161" max-vertical-offset="1007">
               <folding />
             </state>
           </provider>
@@ -68,7 +95,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/../portal_new/package.json" />
         <option value="$PROJECT_DIR$/temp.coffee" />
         <option value="$PROJECT_DIR$/temp1.coffee" />
         <option value="$PROJECT_DIR$/karma.conf.js" />
@@ -79,10 +105,12 @@
         <option value="$PROJECT_DIR$/node_modules/grunt-readme/docs/overview.md" />
         <option value="$PROJECT_DIR$/test/js-test-driver/coupon-js-test-driver.jstd" />
         <option value="$PROJECT_DIR$/temp.js" />
-        <option value="$PROJECT_DIR$/test/js-test-driver/qunit.jstd" />
         <option value="$PROJECT_DIR$/test/js-test-driver/test-testSelf.coffee" />
         <option value="$PROJECT_DIR$/test/js-test-driver/test-qunit.js" />
+        <option value="$PROJECT_DIR$/test/js-test-driver/qunit.jstd" />
+        <option value="$PROJECT_DIR$/test/js-test-driver/testCreateClass.coffee" />
         <option value="$PROJECT_DIR$/test/js-test-driver/test-qunit.coffee" />
+        <option value="$PROJECT_DIR$/test/js-test-driver/test-create-class.coffee" />
       </list>
     </option>
   </component>
@@ -135,7 +163,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -185,10 +212,6 @@
               <option name="myItemId" value="js-test-driver" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test-testSelf.coffee" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -208,41 +231,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test-qunit.coffee" />
+              <option name="myItemId" value="test-create-class.coffee" />
               <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b++" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b++" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js-test-driver" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="options.lastSelected" value="preferences.sourceCode.CoffeeScript" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="preferences.sourceCode.CoffeeScript" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -324,7 +330,15 @@
       <recent name="F:\PHPnow-1.5.6\htdocs\b++" />
     </key>
   </component>
-  <component name="RunManager" selected="JsTestDriver.js-test-driver">
+  <component name="RunManager" selected="JsTestDriver.qunit">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -335,23 +349,15 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="$PROJECT_DIR$/test/js-test-driver/js-test-driver.jstd" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -376,12 +382,19 @@
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
       <RunnerSettings RunnerId="JsTestDriverClientRunner" />
+      <RunnerSettings RunnerId="JstdDebugProgramRunner" />
       <ConfigurationWrapper RunnerId="JsTestDriverClientRunner" />
+      <ConfigurationWrapper RunnerId="JstdDebugProgramRunner" />
       <method />
     </configuration>
-    <list size="2">
+    <configuration default="false" name="karma" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JsTestDriver.js-test-driver" />
       <item index="1" class="java.lang.String" itemvalue="JsTestDriver.qunit" />
+      <item index="2" class="java.lang.String" itemvalue="Karma.karma" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -420,7 +433,11 @@
       <created>1386144330410</created>
       <updated>1386144330410</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1386234983584</created>
+      <updated>1386234983584</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -428,21 +445,21 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49833888" sideWeight="0.49957156" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49833888" sideWeight="0.50042844" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49778762" sideWeight="0.49957156" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2639246" sideWeight="0.6710963" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.49957156" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="JsTestDriver Server" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.50042844" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27934876" sideWeight="0.67256635" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39892474" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49779248" sideWeight="0.50042844" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32743362" sideWeight="0.49957156" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="JsTestDriver Server" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32743362" sideWeight="0.50042844" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -460,132 +477,138 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/test/js-test-driver/test-qunit.js</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/grunt-readme/tasks/lib/utils.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="29" selection-start="2164" selection-end="2164" vertical-scroll-proportion="0.78117645" vertical-offset="1207" max-vertical-offset="2508" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gruntfile.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0" vertical-offset="399" max-vertical-offset="5282">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/grunt-readme/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1881" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/grunt-readme/docs/overview.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1159" />
+      </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="17" selection-start="17" selection-end="17" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1159">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="4" selection-start="130" selection-end="131" vertical-scroll-proportion="0.0" vertical-offset="76" max-vertical-offset="1995" />
+      </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="4" selection-start="130" selection-end="131" vertical-scroll-proportion="0.0" vertical-offset="76" max-vertical-offset="1995">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/grunt-readme/docs/README.tmpl.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="14" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="437" />
+      </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="14" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="437">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/overview.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="526" selection-end="526" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1159" />
+      </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="526" selection-end="526" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1159">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/runner.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="875">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/temp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="3" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="361">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/js-test-driver/qunit-adapter/QUnitAdapter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="25" selection-start="3451" selection-end="3451" vertical-scroll-proportion="0.0" vertical-offset="1473" max-vertical-offset="3572">
-          <folding />
-        </state>
+        <state line="12" column="3" selection-start="377" selection-end="377" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="361" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/js-test-driver/js-test-driver.jstd">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="3" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="532">
-          <folding />
-        </state>
+        <state line="11" column="3" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="532" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/js-test-driver/test-testSelf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0" vertical-offset="76" max-vertical-offset="969">
-          <folding />
-        </state>
+        <state line="4" column="0" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0" vertical-offset="76" max-vertical-offset="969" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/js-test-driver/test-testSelf.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="143" selection-end="143" vertical-scroll-proportion="0.26297578" vertical-offset="0" max-vertical-offset="578">
-          <folding />
-        </state>
+        <state line="7" column="0" selection-start="143" selection-end="143" vertical-scroll-proportion="0.26297578" vertical-offset="0" max-vertical-offset="578" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/runner.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="7" selection-start="225" selection-end="225" vertical-scroll-proportion="-6.107143" vertical-offset="0" max-vertical-offset="285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/grunt-karma/README.md">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2698" />
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/js-test-driver/qunit-adapter/QUnitAdapter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="136" column="8" selection-start="4640" selection-end="4640" vertical-scroll-proportion="0.032702237" vertical-offset="2470" max-vertical-offset="3591" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/js-test-driver/qunit.jstd">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="10" selection-start="117" selection-end="117" vertical-scroll-proportion="0.2301038" vertical-offset="0" max-vertical-offset="578">
+        <state line="8" column="13" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="266">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/js-test-driver/test-qunit.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="0" selection-start="1130" selection-end="1130" vertical-scroll-proportion="0.0" vertical-offset="581" max-vertical-offset="1007">
+        <state line="25" column="8" selection-start="489" selection-end="489" vertical-scroll-proportion="0.0" vertical-offset="161" max-vertical-offset="1007">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/js-test-driver/test-qunit.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="0" selection-start="1372" selection-end="1372" vertical-scroll-proportion="0.99187934" vertical-offset="0" max-vertical-offset="1045">
+        <state line="32" column="12" selection-start="929" selection-end="934" vertical-scroll-proportion="-7.2" vertical-offset="428" max-vertical-offset="988">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/js-test-driver/test-create-class.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0" vertical-offset="309" max-vertical-offset="1121">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/js-test-driver/test-create-class.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="142" selection-end="142" vertical-scroll-proportion="0.33213645" vertical-offset="5" max-vertical-offset="589">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 

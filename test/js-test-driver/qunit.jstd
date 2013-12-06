@@ -6,3 +6,4 @@ load:
 
 test:
   - test-qunit.js
+  - test-create-class.js

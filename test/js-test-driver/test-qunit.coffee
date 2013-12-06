@@ -44,5 +44,3 @@ test('reqular expression',->
 	ok str6_1[0].length is str6_2[0].length
 
 )
-
-
