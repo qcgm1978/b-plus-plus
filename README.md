@@ -12,10 +12,10 @@
       
 
 	*   language announcement: write.regularly , do freely
-        * philosophy
-            易 (yì) used as an adjective, means "easy" or "simple", whilst as a verb it indicates "change" or "the exchange or substitution of one thing for another".
-            George Berkeley: ‘To be is to be perceived’ 
-           "The usefulness of a pot comes from its emptiness."-laozi 
+        * philosophy and design pattern
+            易 (yì) used as an adjective, means "easy" or "simple", whilst as a verb it indicates "change" or "the exchange or substitution of one thing for another". relevant to behavior class patterns
+            George Berkeley: ‘To be is to be perceived’  . relevant to structural patterns
+           "The usefulness of a pot comes from its emptiness."-laozi . relevant to creating patterns
 
 	* tool The workbench becomes the center of the wood shop, the craftsman returning to it time and time again as a piece takes shape.For a programmer manipulating files of text, that workbench is the command shell.(the pragmatic programmer, shell games section)
 		* ipad
