@@ -9,7 +9,8 @@
 
 ## overview
 [[Back To Top]](#jump-to-section)
-
+        * philosophy
+            George Berkeley: ‘To be is to be perceived’ 
 
 	*   language announcement: write.regularly , do freely
 
@@ -56,7 +57,7 @@
 			* debug
 			* clean
 			* build
-			* philosophy
+			* 
 			* 
 				* chaos
 
