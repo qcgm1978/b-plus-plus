@@ -17,7 +17,7 @@
             George Berkeley: ‘To be is to be perceived’ 
            "The usefulness of a pot comes from its emptiness."-laozi 
 
-	* 
+	* tool The workbench becomes the center of the wood shop, the craftsman returning to it time and time again as a piece takes shape.For a programmer manipulating files of text, that workbench is the command shell.(the pragmatic programmer, shell games section)
 		* ipad
 		* language 
 
@@ -32,7 +32,7 @@
 		* 3d
 
 			* webgl
-			* utility tool: google web designer
+			* utility : google web designer
 
 		* distribution not integration
 		* strict entry and tolerant exit
