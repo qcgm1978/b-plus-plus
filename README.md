@@ -39,7 +39,7 @@
 			* paradigm
 				* hacker(wiki): A person who enjoys exploring the details of programmable systems and stretching their capabilities, as opposed to most users, who prefer to learn only the minimum necessary.
 
-			* language
+			* language The limits of language are the limits of one's world. Ludwig Von Wittgenstein
 				* Language Implementation Patterns
 
 					* There are four common kinds of scoping rules: languages with a single scope, nested scopes, C-style struct scopes, and class scopes
