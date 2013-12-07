@@ -9,12 +9,13 @@
 
 ## overview
 [[Back To Top]](#jump-to-section)
+      
+
+	*   language announcement: write.regularly , do freely
         * philosophy
             易 (yì) used as an adjective, means "easy" or "simple", whilst as a verb it indicates "change" or "the exchange or substitution of one thing for another".
             George Berkeley: ‘To be is to be perceived’ 
            "The usefulness of a pot comes from its emptiness."-laozi 
-
-	*   language announcement: write.regularly , do freely
 
 	* 
 		* ipad
