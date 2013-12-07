@@ -23,7 +23,7 @@
 
 			* fc
 
-				* formal
+				* formal markdown idea plain text: And we believe that the best format for storing knowledge persistently is plain text. With plain text, we give ourselves the ability to manipulate knowledge, both manually and programmatically, using virtually every tool at our disposal.(pragmatic programmer, the power of plain text)
 				* contents
 
 			* ide
