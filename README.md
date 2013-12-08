@@ -14,9 +14,10 @@
 	*   language announcement: write.regularly , do freely
         * philosophy and design pattern
             易 (yì) used as an adjective, means "easy" or "simple", whilst as a verb it indicates "change" or "the exchange or substitution of one thing for another". relevant to behavior class patterns
-            George Berkeley: ‘To be is to be perceived’  . relevant to structural patterns
+            George Berkeley: ‘To be is to be perceived’  . relevant to structural patterns and ui patterns
+                  * change as presentation: ui CSS 3 will and presentation 
            "The usefulness of a pot comes from its emptiness."-laozi . relevant to creating patterns
-        * change as presentation: ui CSS 3 will and presentation 
+        
 
 	* tool The workbench becomes the center of the wood shop, the craftsman returning to it time and time again as a piece takes shape.For a programmer manipulating files of text, that workbench is the command shell.(the pragmatic programmer, shell games section)
 		* ipad
