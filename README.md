@@ -27,6 +27,8 @@
         
 
 	* tool The workbench becomes the center of the wood shop, the craftsman returning to it time and time again as a piece takes shape.For a programmer manipulating files of text, that workbench is the command shell.(the pragmatic programmer, shell games section)
+
+        * the first and only principle : dry.  apply it quite broadly to include "database schemas, test plans, the build system, even documentation."(pragmatic programmer)
 		* ipad
 		* language 
 
