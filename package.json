@@ -40,7 +40,8 @@
     "grunt-ngmin": "~0.0.2",
     "grunt-readme": "~0.4.2",
     "load-grunt-tasks": "~0.2.0",
-    "grunt-readme-generator": "~0.3.41"
+    "grunt-readme-generator": "~0.3.41",
+    "grunt-contrib-jasmine": "~0.5.2"
   },
   "engines": {
     "node": ">=0.8.0"

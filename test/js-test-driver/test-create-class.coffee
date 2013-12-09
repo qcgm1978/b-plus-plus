@@ -43,7 +43,6 @@ test 'object literals', ->
     c = new obj.Func()
     equal obj.getA(), 1, 'this in obj literal pointed to the obj'
     equal c.a, 2, 'this in instance pointed to constructor precedence over obj'
-    obj = {}
 
     assertException(
         ->

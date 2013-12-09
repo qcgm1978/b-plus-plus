@@ -20,3 +20,4 @@ TestCase('JsUnit',
 		a=b={a:1}
 		assertSame(a,b)
 )
+
