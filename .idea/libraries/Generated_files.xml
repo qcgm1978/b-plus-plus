@@ -12,6 +12,7 @@
         <item url="file://$PROJECT_DIR$/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/examples/echoToFile.js" />
         <item url="file://$PROJECT_DIR$/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/examples/movies.js" />
         <item url="file://$PROJECT_DIR$/test/js-test-driver/test-qunit.js" />
+        <item url="file://$PROJECT_DIR$/test/js-test-driver/learn-jasmine-by-jasmine.js" />
         <item url="file://$PROJECT_DIR$/temp.js" />
         <item url="file://$PROJECT_DIR$/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/examples/rasterize.js" />
         <item url="file://$PROJECT_DIR$/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/examples/follow.js" />
@@ -29,7 +30,7 @@
         <item url="file://$PROJECT_DIR$/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/examples/imagebin.js" />
         <item url="file://$PROJECT_DIR$/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/examples/child_process-examples.js" />
         <item url="file://$PROJECT_DIR$/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/examples/loadurlwithoutcss.js" />
-        <item url="file://$PROJECT_DIR$/test/jasmine-adapter/src-test/test-by-jasmine.js" />
+        <item url="file://$PROJECT_DIR$/test/js-test-driver/test-by-jasmine.js" />
         <item url="file://$PROJECT_DIR$/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/examples/detectsniff.js" />
         <item url="file://$PROJECT_DIR$/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/examples/hello.js" />
         <item url="file://$PROJECT_DIR$/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/examples/useragent.js" />
@@ -74,6 +75,7 @@
       <root url="file://$PROJECT_DIR$/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/examples/echoToFile.js" />
       <root url="file://$PROJECT_DIR$/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/examples/movies.js" />
       <root url="file://$PROJECT_DIR$/test/js-test-driver/test-qunit.js" />
+      <root url="file://$PROJECT_DIR$/test/js-test-driver/learn-jasmine-by-jasmine.js" />
       <root url="file://$PROJECT_DIR$/temp.js" />
       <root url="file://$PROJECT_DIR$/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/examples/rasterize.js" />
       <root url="file://$PROJECT_DIR$/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/examples/follow.js" />
@@ -92,7 +94,7 @@
       <root url="file://$PROJECT_DIR$/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/examples/child_process-examples.js" />
       <root url="file://$PROJECT_DIR$/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/examples/loadurlwithoutcss.js" />
       <root url="file://$PROJECT_DIR$/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/examples/detectsniff.js" />
-      <root url="file://$PROJECT_DIR$/test/jasmine-adapter/src-test/test-by-jasmine.js" />
+      <root url="file://$PROJECT_DIR$/test/js-test-driver/test-by-jasmine.js" />
       <root url="file://$PROJECT_DIR$/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/examples/hello.js" />
       <root url="file://$PROJECT_DIR$/node_modules/grunt-contrib-jasmine/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/examples/useragent.js" />
       <root url="file://$PROJECT_DIR$/node_modules/grunt-readme-generator/tasks/readme_generator.js" />

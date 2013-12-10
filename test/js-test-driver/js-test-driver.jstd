@@ -1,12 +1,12 @@
 server: http://localhost:4224
 
 load:
-  - ../..\node_modules\grunt-contrib-jasmine\vendor\jasmine-1.3.1\jasmine.js
+  - ../../node_modules/grunt-contrib-jasmine/vendor/jasmine-1.3.1/jasmine.js
   - ../jasmine-adapter/src/JasmineAdapter.js
 
 test:
-  - test-testSelf.js
-  - ../jasmine-adapter/src-test/test-by-jasmine.js
+#  - test-testSelf.js
+  - test-by-jasmine.js
 exclude:
 #  - uselessfile.js
 
