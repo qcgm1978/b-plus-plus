@@ -12,6 +12,9 @@
       
 
 	*   language announcement: write.regularly , do freely
+        *.  empty and name
+               name: naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
+
         * philosophy and design pattern
             易 (yì) used as an adjective, means "easy" or "simple", whilst as a verb it indicates "change" or "the exchange or substitution of one thing for another". relevant to behavior class patterns
 	          * asynchronous and concurrent : time-based class?
