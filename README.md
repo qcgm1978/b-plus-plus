@@ -13,8 +13,25 @@
 
 	*   language announcement: write.regularly , do freely
         *.  empty and name
-               name: naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.
-
+               : naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.the following derives from http://www.planetgeek.ch/wp-content/uploads/2013/06/Clean-Code-V2.2.pdf
+                     Choose Descriptive / Unambiguous Names +
+Names have to reflect what a variable, field, property stands for. Names have to be precise.
+Choose Names at Appropriate Level of Abstraction +
+Choose names that reflect the level of abstraction of the class or method you are working in.
+Name Interfaces After Functionality They Abstract +
+The name of an interface should be derived from its usage by the client, such as IStream.
+Name Classes After How They Implement Their Interfaces + The name of a class should reflect how it fulfils the functionality provided by
+its interface(s), such as MemoryStream : IStream
+Name Methods After What They Do +
+The name of a method should describe what is done, not how it is done.
+Use Long Names for Long Scopes +
+fieldsparameterslocalsloop variables long short
+Names Describe Side Effects +
+Names have to reflect the entire functionality.
+Standard Nomenclature Where Possible +
+Don’t invent your own language when there is a standard.
+Encodings in Names –
+No prefixes, no type/scope information
         * philosophy and design pattern
             易 (yì) used as an adjective, means "easy" or "simple", whilst as a verb it indicates "change" or "the exchange or substitution of one thing for another". relevant to behavior class patterns
 	          * asynchronous and concurrent : time-based class?
