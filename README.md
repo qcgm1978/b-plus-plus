@@ -27,7 +27,7 @@
 	                *micro : code interface - core, test(runtime testing), ui, comments, doc etc like jsbin's interface. so I can fork jsbin and convert it into the editor of b++
 	
            "The usefulness of a pot comes from its emptiness."-laozi . relevant to creating patterns
-        
+        * design principle , why make it not config:select good default values,pick strategy not satisfy everyone,user think less #design
 
 	* tool The workbench becomes the center of the wood shop, the craftsman returning to it time and time again as a piece takes shape.For a programmer manipulating files of text, that workbench is the command shell.(the pragmatic programmer, shell games section)
 
