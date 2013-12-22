@@ -13,6 +13,8 @@
 
 	*   language announcement: write.regularly , do freely
         *.  development mythology : http://c2.com/cgi/wiki?LanguageSmell
+        *.  4 elements: In 1994, dp, refactor, dp—>pattern, test: Design Patterns changed the landscape of object-oriented development by introducing classic solutions to recurring design problems. In 1999, Refactoring revolutionized design by introducing an effective process for improving code. With the highly anticipated Refactoring to Patterns, Joshua Kerievsky has changed our approach to design by forever uniting patterns with the evolutionary process of refactoring.
+
         *.  empty and name
                : naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.the following derives from http://www.planetgeek.ch/wp-content/uploads/2013/06/Clean-Code-V2.2.pdf
                      Choose Descriptive / Unambiguous Names +
