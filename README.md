@@ -12,6 +12,7 @@
       
 
 	*   language announcement: write.regularly , do freely
+        *.  development mythology : http://c2.com/cgi/wiki?LanguageSmell
         *.  empty and name
                : naming convention is a set of rules for choosing the character sequence to be used for identifiers which denote variables, types, functions, and other entities in source code and documentation.the following derives from http://www.planetgeek.ch/wp-content/uploads/2013/06/Clean-Code-V2.2.pdf
                      Choose Descriptive / Unambiguous Names +
