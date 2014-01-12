@@ -49,7 +49,8 @@
             back_to_top_custom: null
           },
           order: {
-            "overview.md": "overview"
+            "overview.md": "overview",
+            "usage.md": "Usage"
           }
         }
       },

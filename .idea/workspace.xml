@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e84a99ba-582e-4323-aab8-cd3d352a8db4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js-test-driver/learn-jasmine-by-jasmine.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js-test-driver/test-by-jasmine.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js-test-driver/test-by-jasmine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js-test-driver/test-by-jasmine.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/js-test-driver/js-test-driver.jstd" afterPath="$PROJECT_DIR$/test/js-test-driver/js-test-driver.jstd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp.coffee" afterPath="$PROJECT_DIR$/temp.coffee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp.js" afterPath="$PROJECT_DIR$/temp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme/Options.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.coffee" afterPath="$PROJECT_DIR$/Gruntfile.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.map" afterPath="$PROJECT_DIR$/Gruntfile.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme/overview.md" afterPath="$PROJECT_DIR$/readme/overview.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/js-test-driver/test-by-jasmine.js" afterPath="$PROJECT_DIR$/test/js-test-driver/test-by-jasmine.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/js-test-driver/test-by-jasmine.map" afterPath="$PROJECT_DIR$/test/js-test-driver/test-by-jasmine.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/js-test-driver/test-create-class.js" afterPath="$PROJECT_DIR$/test/js-test-driver/test-create-class.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/js-test-driver/test-create-class.map" afterPath="$PROJECT_DIR$/test/js-test-driver/test-create-class.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/js-test-driver/test-qunit.js" afterPath="$PROJECT_DIR$/test/js-test-driver/test-qunit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/js-test-driver/test-qunit.map" afterPath="$PROJECT_DIR$/test/js-test-driver/test-qunit.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/js-test-driver/test-testSelf.js" afterPath="$PROJECT_DIR$/test/js-test-driver/test-testSelf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/js-test-driver/test-testSelf.map" afterPath="$PROJECT_DIR$/test/js-test-driver/test-testSelf.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="b++.iws" />
@@ -34,64 +41,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test-by-jasmine.coffee" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/js-test-driver/test-by-jasmine.coffee">
+      <file leaf-file-name="Gruntfile.coffee" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gruntfile.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="0" selection-start="1249" selection-end="1249" vertical-scroll-proportion="-40.28" vertical-offset="0" max-vertical-offset="4598">
-              <folding>
-                <marker date="1386656097960" expanded="true" signature="2285:2827" placeholder="..." />
-                <marker date="1386656097960" expanded="true" signature="2625:2827" placeholder="..." />
-                <marker date="1386656097960" expanded="true" signature="4729:5124" placeholder="..." />
-                <marker date="1386656097960" expanded="true" signature="5503:5678" placeholder="..." />
-                <marker date="1386656097960" expanded="true" signature="5809:6381" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="learn-jasmine-by-jasmine.coffee" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/js-test-driver/learn-jasmine-by-jasmine.coffee">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="853">
+            <state line="60" column="27" selection-start="1730" selection-end="1730" vertical-scroll-proportion="0.22580644" vertical-offset="993" max-vertical-offset="6080">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test-by-jasmine.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/js-test-driver/test-by-jasmine.js">
+      <file leaf-file-name="Options.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme/Options.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="241" column="13" selection-start="7491" selection-end="7491" vertical-scroll-proportion="-31.8" vertical-offset="3784" max-vertical-offset="5111">
-              <folding>
-                <marker date="1386657698250" expanded="true" signature="47:7950" placeholder="{...}" />
-                <marker date="1386657698250" expanded="true" signature="6434:7945" placeholder="{...}" />
-                <marker date="1386657698250" expanded="true" signature="6576:7216" placeholder="{...}" />
-                <marker date="1386657698250" expanded="true" signature="6689:6705" placeholder="{...}" />
-                <marker date="1386657698250" expanded="true" signature="6787:6793" placeholder="{...}" />
-                <marker date="1386657698250" expanded="true" signature="6844:6875" placeholder="{...}" />
-                <marker date="1386657698250" expanded="true" signature="6933:7095" placeholder="{...}" />
-                <marker date="1386657698250" expanded="true" signature="6957:7020" placeholder="{...}" />
-                <marker date="1386657698250" expanded="true" signature="7152:7209" placeholder="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="js-test-driver.jstd" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/js-test-driver/js-test-driver.jstd">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="44" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
+            <state line="13" column="41" selection-start="1088" selection-end="1088" vertical-scroll-proportion="-9.148149" vertical-offset="0" max-vertical-offset="418">
               <folding />
             </state>
           </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="jasmine.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/grunt-contrib-jasmine/vendor/jasmine-1.3.1/jasmine.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1267" column="10" selection-start="33849" selection-end="33856" vertical-scroll-proportion="1.8" vertical-offset="24118" max-vertical-offset="49514">
+      <file leaf-file-name="Usage.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme/Usage.md">
+          <provider editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
               <folding />
             </state>
+          </provider>
+          <provider selected="true" editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="overview.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme/overview.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="0" selection-start="1003" selection-end="1003" vertical-scroll-proportion="-6.576923" vertical-offset="0" max-vertical-offset="1558">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="text-editor">
+            <state line="43" column="0" selection-start="2505" selection-end="2505" vertical-scroll-proportion="0.0" vertical-offset="319" max-vertical-offset="2432">
+              <folding />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -117,11 +120,8 @@
         <option value="$PROJECT_DIR$/node_modules/grunt-readme/templates/includes/docs-overview.md" />
         <option value="$PROJECT_DIR$/node_modules/grunt-readme/templates/includes/overview.md" />
         <option value="$PROJECT_DIR$/node_modules/grunt-readme/docs/README.tmpl.md" />
-        <option value="$PROJECT_DIR$/Gruntfile.coffee" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/test/js-test-driver/test-create-class.js" />
         <option value="$PROJECT_DIR$/test/js-test-driver/test-create-class.coffee" />
-        <option value="$PROJECT_DIR$/readme/overview.md" />
         <option value="$PROJECT_DIR$/test/js-test-driver/test-testSelf.coffee" />
         <option value="$PROJECT_DIR$/test/jasmine-adapter/src-test/test-by-jasmine.coffee" />
         <option value="$PROJECT_DIR$/test/js-test-driver/js-test-driver.jstd" />
@@ -130,14 +130,18 @@
         <option value="$PROJECT_DIR$/test/js-test-driver/test-by-jasmine.js" />
         <option value="$PROJECT_DIR$/test/js-test-driver/test-by-jasmine.coffee" />
         <option value="$PROJECT_DIR$/test/js-test-driver/learn-jasmine-by-jasmine.coffee" />
+        <option value="$PROJECT_DIR$/readme/overview.md" />
+        <option value="$PROJECT_DIR$/readme/Options.md" />
+        <option value="$PROJECT_DIR$/Gruntfile.coffee" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1231" />
-    <option name="height" value="1040" />
+    <option name="width" value="1198" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -211,6 +215,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -225,21 +230,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="b++" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="temp.coffee" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b++" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b++" />
+              <option name="myItemId" value="b-plus-plus" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -249,35 +240,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="b++" />
+              <option name="myItemId" value="b-plus-plus" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b++" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b++" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js-test-driver" />
+              <option name="myItemId" value="readme" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -289,80 +261,7 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
-  </component>
-  <component name="PublishConfig">
-    <servers>
-      <server id="35502e25-4406-4541-a360-d126ecbe5de0">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-      <server id="58a9aac2-f025-43c4-a060-ac99785e433d">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-      <server id="5bfec6f3-676f-40fa-966d-542852d9d141">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-      <server id="6a764e80-a501-4f55-98ba-f07ce3037fb5">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-      <server id="8340898a-5131-44f7-8352-e2f7f8ea37d5">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-      <server id="8587b6da-bb72-4e8f-ba3e-f39987af617b">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-      <server id="90c32f65-50e3-4997-846e-722de45f1233">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-      <server id="9d897dd3-6c29-4465-a600-fbfe1e76aabb">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-      <server id="bb61cadb-dc12-4bb4-a171-83e8eba3ffa3">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-      <server id="e0de170b-7dca-4377-bbca-c40afd96f6ab">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-    </servers>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -377,14 +276,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JsTestDriver.js-test-driver">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -395,15 +286,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="$PROJECT_DIR$/test/js-test-driver/js-test-driver.jstd" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -511,15 +410,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1231" height="1040" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1198" height="784" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35176992" sideWeight="0.49957156" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6303387" sideWeight="0.49957156" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28963155" sideWeight="0.61725664" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2943761" sideWeight="0.61725664" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39892474" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.40376106" sideWeight="0.50042844" order="7" side_tool="true" content_ui="tabs" />
@@ -528,13 +427,40 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32964602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.6303387" sideWeight="0.49957156" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39892474" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.40376106" sideWeight="0.50042844" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32964602" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2943761" sideWeight="0.61725664" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-    </layout>
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38274336" sideWeight="0.49957156" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="JsTestDriver Server" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32632744" sideWeight="0.50042844" order="12" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -563,27 +489,37 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Gruntfile.coffee">
+    <entry file="file://$PROJECT_DIR$/test/js-test-driver/test-by-jasmine.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="22" selection-start="1622" selection-end="1622" vertical-scroll-proportion="-15.96" vertical-offset="684" max-vertical-offset="6080" />
+        <state line="53" column="0" selection-start="1249" selection-end="1249" vertical-scroll-proportion="0.0" vertical-offset="1007" max-vertical-offset="4522">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/js-test-driver/qunit-adapter/QUnitAdapter.js">
+    <entry file="file://$PROJECT_DIR$/test/js-test-driver/learn-jasmine-by-jasmine.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="25" selection-start="3451" selection-end="3451" vertical-scroll-proportion="0.0" vertical-offset="1403" max-vertical-offset="3591" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="152">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/js-test-driver/test-by-jasmine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="241" column="13" selection-start="7491" selection-end="7491" vertical-scroll-proportion="0.0" vertical-offset="3784" max-vertical-offset="5111">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/js-test-driver/js-test-driver.jstd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="44" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="342">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/js-test-driver/test-create-class.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="99" column="0" selection-start="2426" selection-end="2426" vertical-scroll-proportion="0.0" vertical-offset="1339" max-vertical-offset="1995" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme/overview.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="43" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1406" />
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/js-test-driver/test-create-class.coffee">
@@ -601,80 +537,87 @@
         <state line="23" column="0" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="589" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="55" selection-start="308" selection-end="308" vertical-scroll-proportion="0.50094163" vertical-offset="0" max-vertical-offset="1957" />
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/jasmine-adapter/jsTestDriverIit.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="132" selection-end="132" vertical-scroll-proportion="0.19655173" vertical-offset="0" max-vertical-offset="580" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/temp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="31" selection-start="0" selection-end="653" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
-          <folding />
-        </state>
+        <state line="19" column="31" selection-start="0" selection-end="653" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/temp.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="45" selection-start="0" selection-end="548" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
-          <folding />
-        </state>
+        <state line="18" column="45" selection-start="0" selection-end="548" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/js-test-driver/js-test-driver.jstd">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="44" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/grunt-contrib-jasmine/vendor/jasmine-1.3.1/jasmine.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1267" column="10" selection-start="33849" selection-end="33856" vertical-scroll-proportion="1.8" vertical-offset="24118" max-vertical-offset="49514">
+        <state line="3" column="44" selection-start="81" selection-end="81" vertical-scroll-proportion="0.08755761" vertical-offset="0" max-vertical-offset="651">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/js-test-driver/test-by-jasmine.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="241" column="13" selection-start="7491" selection-end="7491" vertical-scroll-proportion="-31.8" vertical-offset="3784" max-vertical-offset="5111">
-          <folding>
-            <marker date="1386657698250" expanded="true" signature="47:7950" placeholder="{...}" />
-            <marker date="1386657698250" expanded="true" signature="6434:7945" placeholder="{...}" />
-            <marker date="1386657698250" expanded="true" signature="6576:7216" placeholder="{...}" />
-            <marker date="1386657698250" expanded="true" signature="6689:6705" placeholder="{...}" />
-            <marker date="1386657698250" expanded="true" signature="6787:6793" placeholder="{...}" />
-            <marker date="1386657698250" expanded="true" signature="6844:6875" placeholder="{...}" />
-            <marker date="1386657698250" expanded="true" signature="6933:7095" placeholder="{...}" />
-            <marker date="1386657698250" expanded="true" signature="6957:7020" placeholder="{...}" />
-            <marker date="1386657698250" expanded="true" signature="7152:7209" placeholder="{...}" />
-          </folding>
+        <state line="241" column="13" selection-start="7491" selection-end="7491" vertical-scroll-proportion="0.921659" vertical-offset="4074" max-vertical-offset="5206">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/js-test-driver/test-by-jasmine.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="0" selection-start="1249" selection-end="1249" vertical-scroll-proportion="-40.28" vertical-offset="0" max-vertical-offset="4598">
-          <folding>
-            <marker date="1386656097960" expanded="true" signature="2285:2827" placeholder="..." />
-            <marker date="1386656097960" expanded="true" signature="2625:2827" placeholder="..." />
-            <marker date="1386656097960" expanded="true" signature="4729:5124" placeholder="..." />
-            <marker date="1386656097960" expanded="true" signature="5503:5678" placeholder="..." />
-            <marker date="1386656097960" expanded="true" signature="5809:6381" placeholder="..." />
-          </folding>
+        <state line="53" column="0" selection-start="1249" selection-end="1249" vertical-scroll-proportion="0.0" vertical-offset="1007" max-vertical-offset="4522">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/js-test-driver/learn-jasmine-by-jasmine.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="853">
+        <state line="2" column="64" selection-start="14" selection-end="14" vertical-scroll-proportion="0.058371738" vertical-offset="0" max-vertical-offset="651">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme/Options.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="41" selection-start="1088" selection-end="1088" vertical-scroll-proportion="-9.148149" vertical-offset="0" max-vertical-offset="418">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme/overview.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="1003" selection-end="1003" vertical-scroll-proportion="-6.576923" vertical-offset="0" max-vertical-offset="1558">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme/Usage.md">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state line="43" column="0" selection-start="2505" selection-end="2505" vertical-scroll-proportion="0.0" vertical-offset="319" max-vertical-offset="2432">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="27" selection-start="1730" selection-end="1730" vertical-scroll-proportion="0.22580644" vertical-offset="993" max-vertical-offset="6080">
           <folding />
         </state>
       </provider>

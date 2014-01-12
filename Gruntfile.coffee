@@ -53,9 +53,9 @@ module.exports = (grunt) ->
         # Title of the piece and the File name goes here
 #        "Filename" : "Title"
 #        "installation.md": "Installation"
+        "usage.md": "Usage"
+        "options.md": "Options"
         "overview.md": "overview"
-#        "usage.md": "Usage"
-#        "options.md": "Options"
 #        "example.md": "Example"
 #        "output.md": "Example Output"
 #        "building-and-testing.md": "Building and Testing"
